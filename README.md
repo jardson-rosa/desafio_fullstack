@@ -1,6 +1,6 @@
 # Desafio Site Blindado
 
-Este teste foi feito para podermos avaliar o seu conhecimento como programador. Esteja a vontade de fazer perguntas, questionar, propor alternativas, usar ferramentas e frameworks do seu conhecimento para resolver o problema proposto.
+Este teste foi feito para podermos avaliar o seu conhecimento como programador. Esteja a vontade de fazer perguntas, propor alternativas, enviando email para dev@siteblindado.com.br. Você pode usar ferramentas e frameworks do seu conhecimento para resolver o problema proposto.
 
 #### Instruções gerais ####
 
